@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hola🤗, Soy Julieta Barraza✨
+
+Estudiante de 2do año de la Tecnicatura En Desarrollo Web (UNLAM)👩‍💻
+
+Tengo proyectos en desarrollo frontend, backend y fullstack
+
+Estoy dispuesta a aprender, adquirir nuevos conocimientos en el ámbito tecnológico y aportar a la empresa mis skills.
+Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimientos profesionalmente
+
+Tecnologías que manejo👩‍🔧:
+
+Frontend 🎨: HTML, CSS , Javascript, Jquery, Bootstrap
+Backend🔒: Java, Php, Mysql, Sql Server, Php
+Git
