@@ -27,5 +27,6 @@ Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimie
 Tecnologías que manejo👩‍🔧:
 
 Frontend 🎨: HTML, CSS , Javascript, Jquery, Bootstrap
+
 Backend🔒: Java, Php, Mysql, Sql Server, Php
 Git
