@@ -31,3 +31,5 @@ Frontend 🎨: HTML, CSS , Javascript, Jquery, Bootstrap
 Backend🔒: Java, Php, Mysql, Sql Server, Php
 
 Git
+
+🌐 linkedin.com/in/julietabarraza
