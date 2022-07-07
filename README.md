@@ -28,7 +28,7 @@ Tecnologías que manejo👩‍🔧:
 
 Frontend 🎨: HTML, CSS , Javascript, Jquery, Bootstrap
 
-Backend🔒: Java, Php, Mysql, Sql Server, Php
+Backend🔒: Java, Php, Mysql, Sql Server, Php, .NET
 
 Git
 
