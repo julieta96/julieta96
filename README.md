@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hola🤗, Soy Julieta Barraza✨
 
-Estudiante de 2do año de la Tecnicatura En Desarrollo Web (UNLAM)👩‍💻
+Estudiante de 3er año de la Tecnicatura En Desarrollo Web (UNLAM)👩‍💻
 
 Tengo proyectos en desarrollo frontend, backend y fullstack
 
@@ -26,9 +26,9 @@ Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimie
 
 Tecnologías que manejo👩‍🔧:
 
-Frontend 🎨: HTML, CSS , Javascript, Jquery, Bootstrap
+Frontend 🎨: HTML, CSS , Javascript, Jquery, Bootstrap, Angular, React
 
-Backend🔒: Java, Php, Mysql, Sql Server, Php, .NET
+Backend🔒: Java, Php, Mysql, Sql Server, Php, .NET, Node.js
 
 Git
 
