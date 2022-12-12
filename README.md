@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 Estudiante de la Tecnicatura En Desarrollo Web (UNLAM)👩‍💻
 
 Estoy dispuesta a aprender, adquirir nuevos conocimientos en el ámbito tecnológico y aportar mis skills.
-<br/>
 Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimientos profesionalmente.
 
 <div> 
@@ -29,7 +28,8 @@ Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimie
 </div>
 
 <hr/>
-### Tecnologías que manejo👩‍🔧:
+
+<h3> Tecnologías que manejo👩‍🔧: </h3>
 
 Backend🔒: Java, Php, Mysql, Sql Server, Php, .NET, Node.js
 
