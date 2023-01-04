@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hola🤗, Soy Julieta Barraza✨
 
-Estudiante de la Tecnicatura En Desarrollo Web (UNLAM)👩‍💻
+Soy Tecnica En Desarrollo Web (UNLAM)👩‍💻
 
 Estoy dispuesta a aprender, adquirir nuevos conocimientos en el ámbito tecnológico y aportar mis skills.
 Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimientos profesionalmente.
