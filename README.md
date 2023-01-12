@@ -22,11 +22,6 @@ Soy Tecnica En Desarrollo Web (UNLAM)👩‍💻
 Estoy dispuesta a aprender, adquirir nuevos conocimientos en el ámbito tecnológico y aportar mis skills.
 Me gusta trabajar en equipo y los desafios que me ayudan a ampliar mis conocimientos profesionalmente.
 
-<div> 
-  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=julieta96&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
-  <img height='200em' src='https://github-readme-stats.vercel.app/api?username=julieta96&show_icons=true&theme=white)](https://github.com/anuraghazra/github-readme-stats'/>
-</div>
-
 <hr/>
 
 <h3> Tecnologías que manejo👩‍🔧: </h3>
